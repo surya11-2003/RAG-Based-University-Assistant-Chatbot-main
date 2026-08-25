@@ -114,10 +114,6 @@ streamlit run University_Assistant.py
 - Add Urdu language support.
 
 
-## Team Members
-
-- Sohaib Ahmed Bazaz
-- Muhammad Umar 
 
 # comments for first time using 
 
